@@ -30,7 +30,7 @@ function Projects() {
               imgPath={gb}
               isBlog={false}
               title="Gourmet Box"
-              description="Dynamic E-Commerce website dedicated to the employees of the business area. We developed the project with the “Express” Framework in Node JS. The DataBase processing is done via MongoDB and as for the code part, we used Bootstrap with HTML5 / CSS3 in HBS (handlebars) and Javascript."
+              description="Dynamic E-Commerce website dedicated to the employees of the business area. We developed the project with the “Express” Framework in Node JS. The DataBase processing is done with MongoDB and as for the code part, we used Bootstrap with HTML5 / CSS3 in HBS (handlebars) and Javascript."
 
               demoLink="https://www.youtube.com/watch?v=Am2jrf3rKhw"
             />
@@ -52,7 +52,7 @@ function Projects() {
               imgPath={sccr212}
               isBlog={false}
               title="Soccer212"
-              description="Creation of a sports information site specializing in Moroccan football. Site created with wordpress so that contributors can more easily write articles as they are used to doing with wordpress."
+              description="Website specialized in Moroccan football created with wordpress so that authors can more easily write articles as they are used to doing with wordpress."
 
               demoLink="https://soccer212.com/"
             />

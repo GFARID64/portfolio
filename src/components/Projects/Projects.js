@@ -79,7 +79,7 @@ function Projects() {
 
               demoLink="https://latelierbytamara.fr/"
             />
-
+              </Col>  
 
 
         </Row>

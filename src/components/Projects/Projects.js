@@ -25,6 +25,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+            <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={gf}
+              isBlog={false}
+              title="Comparateur Politique"
+              description="An interactive questionnaire designed to help users identify the political party that aligns best with their views through a series of 20 questions, using HTML, CSS, JavaScript for the frontend, Node.js and Express for the backend, and EJS for template rendering."
+
+              demoLink="https://comparateur-politique.alwaysdata.net/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={gb}

@@ -11,6 +11,7 @@ import bitsOfCode from "../../Assets/Projects/blog.png";
 import gb from "../../Assets/Projects/gb.png";
 import sccr212 from "../../Assets/Projects/sccr212.png";
 import sccr11 from "../../Assets/Projects/11sccr.png";
+import gf from "../../Assets/Projects/gf.png";
 
 
 function Projects() {

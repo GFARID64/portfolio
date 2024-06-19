@@ -12,6 +12,7 @@ import gb from "../../Assets/Projects/gb.png";
 import sccr212 from "../../Assets/Projects/sccr212.png";
 import sccr11 from "../../Assets/Projects/11sccr.png";
 import gf from "../../Assets/Projects/gf.png";
+import abt from "../../Assets/Projects/LogoFinalBlanc.png";
 
 
 function Projects() {
@@ -68,6 +69,16 @@ function Projects() {
               demoLink="https://soccer212.com/"
             />
           </Col>
+
+              <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={abt}
+              isBlog={false}
+              title="L'atelier By Tamara"
+              description="A WordPress project for a nail technician featuring online appointment scheduling and showcasing services."
+
+              demoLink="https://latelierbytamara.fr/"
+            />
 
 
 
